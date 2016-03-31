@@ -1,10 +1,10 @@
 ---
-title: How We Work - For Clients
+title: How We Work For Clients
 prev_section: what-is-syncopate.html
 next_section: why-this-works.html
 ---
 
-How Agile88 works - For Clients
+How Agile88 Works For Clients
 ===================
 
 1. Create a project brief
