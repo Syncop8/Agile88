@@ -1,10 +1,10 @@
 ---
-title: "How We Work - Agile Project Experts"
+title: "How It Works - Agile Project Experts / Ninjas"
 prev_section: brand-building.html
 next_section: 
 ---
 
-How We Work - For Agile Project Experts / Ninjas
+How It Works For Agile Project Experts / Ninjas
 ==========================
 
 
