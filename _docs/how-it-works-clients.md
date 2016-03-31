@@ -34,7 +34,7 @@ We encourage you to be clear on deliverables and communicate with the consultant
 
 Payment
 -------------------------------------
-Our standard invoicing cycle is fortnightly throughout the project. You’ll receive regular invoices from Expert360 for the consultants’ work. We accept a range of payment methods (bank deposit, Paypal, credit card).
+Our standard invoicing cycle is fortnightly throughout the project. You’ll receive regular invoices from Agile88 for the consultants’ work. We accept a range of payment methods (bank deposit, Paypal, credit card).
 
 Leave feedback and reviews
 -------------------------------------
