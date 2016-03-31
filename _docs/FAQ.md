@@ -49,12 +49,12 @@ Our minimum bar is:
 
 This considerably limits the number of applicants.
 
-Other things that we value (but don't always require):
+Other things that we value (but don't have an ability to demand!!):
 
 -   The candidate complements our network somehow, for example with new skills or perspectives that we lack. He/she will make us feel like newbies in some area!
 -   The candidate has lots of energy and ideas, and won't be shy to challenge the status quo.
 -   The candidate is well known and has a strong reputation in the industry.
--   
+
 
 > Tips to candidates: Inspire us! Inspire your potential clients! Show us your skills, technical and social! Present something new and exciting on a blog post, video or conference. We all need to be convinced you are good at what you do. Why? Because we want the clients to rave over how awesome you are.
 
