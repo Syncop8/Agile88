@@ -40,7 +40,7 @@ Our consultants cater primarily to agile projects of all sizes. They  specialize
 * Project Set-up or turnaround
 
 
-What sort of people wukk you find on Agile88?
+What sort of people will you find on Agile88?
 ----------------
 
 Our minimum bar is:
