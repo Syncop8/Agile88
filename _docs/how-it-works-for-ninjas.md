@@ -4,16 +4,15 @@ prev_section: brand-building.html
 next_section: 
 ---
 
-How It Works For Agile Project Experts / Ninjas
+How It Works -  Agile Project Experts
 ==========================
-
 
 1. Sign up for a FREE consultant account on Agile88
 ------------------------------------------------
 
 Sign up for a FREE consultant account on Agile 88. 
 
-[Apply here] (apply.html) to become a consultant on Agile88. We are home to only the very best in agile project delivery talent. Please allow up to 48 hours for us to review your application.
+[Apply here](apply.html) to become a consultant on Agile88. We are home to only the very best in agile project delivery talent. Please allow up to 48 hours for us to review your application.
 
 2. Create your profile
 ---------------------------
@@ -42,5 +41,5 @@ Apply to roles that pique your interest. Your application is sent immediately th
 --------------------------------------------------
 Agile88 processes payments for all work you complete with clients. We do the chasing for you. Use our simple invoicing tool on your  Dashboard to get paid.
 
-Still have questions? Read through our [FAQs] (FAQ.html)
+Still have questions? Read through our [FAQs](FAQ.html)
 
