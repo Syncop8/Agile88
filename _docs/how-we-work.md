@@ -37,7 +37,7 @@ Once you’re ready to hire, key terms (rates, start date, deliverables, approac
 We encourage you to be clear on deliverables and communicate with the consultant regularly through the project to ensure your expectations are met. The Agile88 team is here to help should you have any questions or concerns.
 
 
-6. Work directly with your consultant
+6. Payment
 -------------------------------------
 Our standard invoicing cycle is fortnightly throughout the project. You’ll receive regular invoices from Expert360 for the consultants’ work. We accept a range of payment methods (bank deposit, Paypal, credit card).
 
