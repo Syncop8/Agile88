@@ -22,7 +22,7 @@ Our secure, easy to use platform takes care of everything. Simply:
 * Pick the best fit - No need to worry about contracts, invoicing, or payments - everything is handled through the platform.
 * We aim to provide awesome people. Hire awesome or don't hire at all is our motto.
 
-For more details see [How it works for clients](how-it-works-clients.html).
+For more details see [How it works for clients](./how-it-works-clients.html).
 
 What sort of projects get posted on Agile88?
 ----------------
@@ -71,7 +71,7 @@ We ask clients to adhere to providing fair notice of termination for consultants
 How long does it take to secure a consultant?
 ----------------------------------------
 
-On average, it takes 2 days to hire a consultant. However, it's common for people to find the right match within 24 hours. If your requirements are urgent, please get in touch with our team at projects@agile88.com or on 1300 482 671.
+On average, it takes 2 days to hire a consultant. However, it's common for people to find the right match within 24 hours. If your requirements are urgent, please get in touch with our team at projects@agile88.com or on 1300 blah blah.
 
 
 How do I offer and accept a contract?
