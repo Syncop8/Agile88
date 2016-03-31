@@ -4,7 +4,7 @@ prev_section: brand-building.html
 next_section: 
 ---
 
-We We Work - For Agile Project Experts (Ninjas)
+How We Work - For Agile Project Experts / Ninjas
 ==========================
 
 
