@@ -10,7 +10,7 @@ Frequently Asked Questions
 What do we do?
 --------------------------
 
-Agile88 is an online platform that connects businesses with a global network of top independent agile consultants for project based work.
+Agile88 is an online platform that connects businesses with a global network of top independent multi-discplinary agile consultants for digital and technology-intensive project based work.
 
 How does it work for clients?
 -----------------------------
@@ -34,7 +34,6 @@ Again, simple!
 * You apply for open roles
 * If selected you negotiate your rates and the contract with the client
 * You use the platform to invoice and get paid.
-* We aim to provide awesome people. Hire awesome or don't hire at all is our motto.
 
 For more details see [How it works for ninjas](./how-it-works-for-ninjas.html).
 
