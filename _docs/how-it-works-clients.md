@@ -22,21 +22,21 @@ Engage quickly and directly
 
 Review the applications, read reviews from former clients and choose who you want to interview and hire. Connect with them directly.
 
-4. Agree Terms
+Agree Terms
 ------------------
 
 Once you’re ready to hire, key terms (rates, start date, deliverables, approach etc.) will all be agreed and and recorded on the Agile88 platform. Keep in mind we add a margin to our consultants rates.
 
-5. Work directly with your consultant
+Work directly with your consultant
 -------------------------------------
 
 We encourage you to be clear on deliverables and communicate with the consultant regularly through the project to ensure your expectations are met. The Agile88 team is here to help should you have any questions or concerns.
 
-6. Payment
+Payment
 -------------------------------------
 Our standard invoicing cycle is fortnightly throughout the project. You’ll receive regular invoices from Expert360 for the consultants’ work. We accept a range of payment methods (bank deposit, Paypal, credit card).
 
-7. Leave feedback and reviews
+Leave feedback and reviews
 -------------------------------------
 
 Help our consultants build their profile and help us improve the Agile88 experience. We value your feedback.
