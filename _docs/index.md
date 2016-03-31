@@ -1,62 +1,44 @@
 ---
-title: Syncopate DNA
-next_section: what-is-syncopate.html
+title: Agile88 DNA
+next_section: how-it-works-clients.html
 ---
 
-What is Syncopate?
+What is Agile88
 ==================
 
-Syncopate is a consulting company based in Sydney, Australia. Formally, Syncopate doesn't really have a business area. Nothing about our model is specific to any domain or industry.
+Our Mission
+----------------
 
-In practice though, because of our history and the people who happen to work at Syncopate, we're primarily interested in the following business areas:
+To enable businesses of all sizes to directly engage top agile, design, software, dev ops and project delivery talent.
 
-1.  **New product development, especially in Financial Services**. Either shorter or longer engagements.
-2.  **Agile/Lean/Design Thinking coaching and training**. Mostly shorter engagements or part-time.
-3.  **Large project or business set up and delivery (using agile etc)**. Mostly longer engagements and close to full-time.
+Our Story
+-------------
 
-But we aren't a very typical consulting company. For example:
 
--   None of the consultants are actually employed by us
--   We have no managers, not even a CEO. Instead we rely on self-organisation and transparency. Almost everything is bottom-up, and [anyone can drive any decision](decisions.html).
--   Syncopate's main purpose is to enable consultants to be happy, and [Happiness Index](happiness-index.html) is our driving metric. Strong revenue and delighted customers are a side effect, not a goal.
--   Syncopate doesn't want to earn money from it's consultants. It is in practice a non-profit company (although not formally so). Consultants [keep most of what they earn](economic-model.html).
--   Our [ownership model](ownership-model.html) is designed to keep our stock financially worthless. There is no incentive to "cash in".
--   Consultants are 100% autonomous. They can do whatever they want (as long as they don't hurt the brand or [our house](what-is-syncopate.html)), and work as much or as little as they want.
+During our time at professional services firms and working for corporate, we saw the power of great agile talent in delivering real, innovative outcomes and results.
 
-Driving principles
-------------------
+But getting access to the best was - and still is - hard. The market for matching people and organisations was highly inefficient. We believed that an efficient marketplace for great talent would help both organisations and those individuals with powerful skill-sets.
 
-(these principles drive almost everything at Syncopate)
+We also noticed that more and more skilled people wanted to have more flexibility and choice in the way the work and with whom they work.
 
--   [What is Syncopate](what-is-Syncopate.html) - the purpose of the company
--   [How Syncopate works](how-Syncopate-works.html) - summary of our model, and some driving principles.
--   [Why this works](why-this-works.html) - why this model has served us so well
+Our Solution
+--------------
 
-Core structure and practices
-------------------
+We knew that technology would empower a new way of delivering consulting services and we created Agile88.
 
-(although these are core to our model, they are mostly just consequences of the principles above)
+Agile88 allows businesses to engage top agile talent for project-work. We find the best people, stripped away the overhead and inefficiencies and put it on a digital platform to allow clients and consultants to come together in a flexible way to deliver great work (on-site and remotely).
 
--   [Happiness index](happiness-index.html) - how do we know if we are succeeding?
--   [Ownership model](ownership-model.html) - how do people become owners, and what ownership actually means?
--   [Economic model](economic-model.html) - how does money flow through the system?
--   [How we make decisions](decisions.html) - how do decisions get made when there is no manager?
--   [Recruiting](recruiting.html) - how do new people get in?
--   [Communication](communication.html) - how do we collaborate, sync, and improve?
--   [Muffin protocol](muffin-protocol.html) - how do we handle customer enquiries and route to the right consultant?
--   [Office team](office-team.html) - how do we handle admin and day-to-day operations?
--   [Board of directors](board.html) - Law requires that we have a BoD. So how does the BoD at Syncopate work?
--   [Our business](our-business.html) - what type of work we do
--   [Visions](visions.html) - How to you get a bunch of autonomous consultants to agree on a vision? Answer: have several :o)
--   [Sales](sales.html) - how do we actually sell consultants?
+We bring businesses what they really want – highest quality talent, flexibility in how they engage them, and at a price that delivers great value.
 
-Supporting practices
-------------------
+Through the Agile88 platform, businesses of all sizes are now able to:
 
-(relevant stuff, but not core to our model)
+Engage top people for project-based work, removing the need to hire a whole team, reducing cost, and giving businesses the freedom to choose experienced consultants that suit them.
+Receive extensive client support and an easy to follow step-by-step process, ensuring that businesses are able to complete projects and access experienced consultants quickly and efficiently.
+At the same time, we wanted to provide consultants with an end to end solution that enables them to work more flexibly and source projects that made them tick, without all the hassle of managing contracts, invoicing and payments.
 
--   [Industries that we avoid](industries-that-we-avoid.html) - why we avoid certain industries
--   [Conflict handling](conflict-handling.html) - How do we make sure conflicts are constructive rather than destructive?
--   [Contracts](contracts.html) - our internal contracts for Syncopate membership, ownership, etc.
--   [Building competence](building-competence.html) - how we learn from each other and improve
--   [Brand building](brand-building.html) - how do we build the brand, both Syncopate and personal brands?
+Through the Agile88 platform, consultants are able to:
+
+Do what they love everyday by selecting projects that leverage their skills and interest them the most.
+Effortlessly manage their own workflow without having to worry about contracts and invoices as everything is managed through the online platform.
+Grow their professional network by connecting with like minded consultants and businesses seeking individuals with their unique background and experience.
+
