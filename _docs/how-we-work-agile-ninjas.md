@@ -42,5 +42,5 @@ Apply to roles that pique your interest. Your application is sent immediately th
 --------------------------------------------------
 Agile88 processes payments for all work you complete with clients. We do the chasing for you. Use our simple invoicing tool on your  Dashboard to get paid.
 
-Still have questions? Read through our [FAQs} (FAQ.html)
+Still have questions? Read through our [FAQs] (FAQ.html)
 
