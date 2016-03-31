@@ -4,7 +4,7 @@ prev_section: decisions.html
 next_section: communication.html
 ---
 
-Recruitment - how we grow
+Frequently Asked Questions
 =========================
 
 What do we do?
