@@ -4,7 +4,7 @@ prev_section: brand-building.html
 next_section: 
 ---
 
-How It Works -  Agile Project Experts
+How It Works -  Ninjas
 ==========================
 
 Sign up for a FREE consultant account on Agile88
