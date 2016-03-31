@@ -10,12 +10,12 @@ How Agile88 works - For Clients
 1. Create a project brief
 -----------------------
 
-Post a project brief that describes what you need help with, the profile of your ideal consultant and other details. It’s a good idea to set expectations around your timeframe and budget to help consultants tailor their proposals to your needs. Your company details are kept confidential and are not visible to consultants.
+Post a project brief that describes what you need help with, the profile of your ideal Agile88er and other details. It’s a good idea to set expectations around your timeframe and budget to help prospects tailor their proposals to your needs. Your company details are kept confidential and are not visible.
 
-2. Get matched to the best consultants
+2. Get matched to the best agile project people
 -------------------
 
-Our recommendations engine matches your brief with the most relevant consultants. You can also invite Expert360 consultants to apply for the project. Interested and available consultants will submit an application for you to review.
+Our recommendations engine matches your brief with the most relevant consultants. You can also invite Agile88 consultants to apply for the project. Interested and available people will submit an application for you to review.
 
 3. Engage quickly and directly
 ---------------------------
