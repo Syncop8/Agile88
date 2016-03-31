@@ -57,7 +57,7 @@ Other things that we value (but don't always require):
 -   The candidate has lots of energy and ideas, and won't be shy to challenge the status quo.
 -   The candidate is well known and has a strong reputation in the industry.
 
-> Tips to candidates: Inspire us! Show us your skills, technical and social! Present something new and exciting at one of our events. Prepare for lots of intense discussions, critique and laughter – we’re a merry bunch, but we need to be convinced you are good at what you do. Why? Because we want to learn from you, and we want the clients to rave over how awesome you are.
+> Tips to candidates: Inspire us! Inspire your potential clients! Show us your skills, technical and social! Present something new and exciting on a blog post, video or conference. We all need to be convinced you are good at what you do. Why? Because we want the clients to rave over how awesome you are.
 
 
 Who is responsible for delivering work?
