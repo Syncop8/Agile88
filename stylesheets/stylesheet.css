@@ -668,7 +668,7 @@ form {
 }
 
 #main-content h1:before {
-  content: "/";
+  content: ">";
   color: #9ddcff;
   padding-right: 0.3em;
   margin-left: -0.9em;
@@ -683,7 +683,7 @@ form {
   text-indent: 4px;
 }
 #main-content h2:before {
-  content: "//";
+  content: ">>";
   color: #9ddcff;
   padding-right: 0.3em;
   margin-left: -1.5em;
@@ -700,7 +700,7 @@ form {
 }
 
 #main-content h3:before {
-  content: "///";
+  content: "//";
   color: #9ddcff;
   padding-right: 0.3em;
   margin-left: -2em;
@@ -716,7 +716,7 @@ form {
 }
 
 h4:before {
-  content: "////";
+  content: "///";
   color: #9ddcff;
   padding-right: 0.3em;
   margin-left: -2.8em;
@@ -730,7 +730,7 @@ h4:before {
   text-indent: 3px;
 }
 h5:before {
-  content: "/////";
+  content: "////";
   color: #9ddcff;
   padding-right: 0.3em;
   margin-left: -3.2em;
@@ -744,7 +744,7 @@ h5:before {
   text-indent: 3px;
 }
 h6:before {
-  content: "//////";
+  content: "/////";
   color: #9ddcff;
   padding-right: 0.3em;
   margin-left: -3.7em;
@@ -993,4 +993,5 @@ footer a:hover {
 .current a {
   font-weight: 900;
 }
+
 
