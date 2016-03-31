@@ -24,8 +24,23 @@ Our secure, easy to use platform takes care of everything. Simply:
 
 For more details see [How it works for clients](./how-it-works-clients.html).
 
+How does it work for ninjas?
+-----------------------------
+
+Again, simple!
+
+* Apply to be on the platform - Describe yourself, why you're a ninja! You need to have a sponsor who's already on the platform. Someone who's willing to vouch for your ninja status.Note: you have to have you own company already set up. We aren`t your employer. But we can help you do this. 
+* We vet your application
+* You apply for open roles
+* If selected you negotiate your rates and the contract with the client
+* You use the platform to invoice and get paid.
+* We aim to provide awesome people. Hire awesome or don't hire at all is our motto.
+
+For more details see [How it works for ninjas](./how-it-works-for-ninjas.html).
+
+
 What sort of projects get posted on Agile88?
-----------------
+--------------------------------------------
 
 
 Our consultants cater primarily to agile projects of all sizes. They  specialize in UX, software development, dev ops, agile coaching, project and program delivery. Projects typically fall into one of the following categories:
