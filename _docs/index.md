@@ -15,11 +15,11 @@ Our Story
 -------------
 
 
-We are both career project people. During our time at professional services firms and working for corporates as both consultants and internall staff members, we saw the power of great agile talent when it came to delivering real, innovative outcomes and results.
+We are both career project people. During our time at professional services firms and working for companies both big and small as both consultants and internal staff members, we saw the power of great agile talent when it came to delivering real, innovative outcomes and results.
 
 But getting access to the best was - and still is - difficult. The market for matching people and organisations was, and largely is, highly inefficient. We believed that an online marketplace for great talent would help both organisations and those individuals with powerful skill-sets.
 
-We also noticed that more and more skilled people wanted to have more flexibility and choice in the way the work and with whom they work.
+We also noticed that sometimes even good people struggle as independant consultants, and that more and more of them wanted to have more flexibility and choice in the way the work and with whom they work.
 
 
 What do Agile88ers like in and value?
