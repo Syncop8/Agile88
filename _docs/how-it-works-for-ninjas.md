@@ -35,7 +35,7 @@ Agree Terms
 
 Agree and formalise key terms of your engagement with the client on the Agile88 platform.
 
-Apply to roles that pique your interest. Your application is sent immediately through to clients, together with your Expert360 profile and any fee, timing and scope suggestions you may have.
+Apply to roles that pique your interest. Your application is sent immediately through to clients, together with your Agile88 profile and any fee, timing and scope suggestions you may have.
 
 Get Paid
 --------------------------------------------------
