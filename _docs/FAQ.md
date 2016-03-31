@@ -75,9 +75,9 @@ On average, it takes 2 days to hire a consultant. However, it's common for peopl
 How do I offer and accept a contract?
 ----------------------------------------
 
-After you have interviewed suitable consultants for your project and have verbally communicated with the chosen consultant that you would like to move ahead, the next step is offer a contract through the Expert360 platform. The contract will officially scope the project deliverables, timeframes and budgets and is a good reference point to set out your agreement. 
+After you have interviewed suitable consultants for your project and have verbally communicated with the chosen consultant that you would like to move ahead, the next step is offer a contract through the Agile88 platform. The contract will officially scope the project deliverables, timeframes and budgets and is a good reference point to set out your agreement. 
 
-Once you and the consultant have accepted the contract, you are ready to commence work. You may provide additional agreements relevant to your own organization directly to the consultant, however an Expert360 contract is required so as Expert360 can process payments in-line with your agreed terms. It also forms as a key component of Expert360’s Terms and Conditions and Pricing and Payment Terms.
+Once you and the consultant have accepted the contract, you are ready to commence work. You may provide additional agreements relevant to your own organization directly to the consultant, however an Agile88 contract is required so Agile88 can process payments in-line with your agreed terms. It also forms as a key component of Agile88’s Terms and Conditions and Pricing and Payment Terms.
 
 
 Do I pay by the day, hour, week, other?
@@ -123,3 +123,4 @@ Welcome! You'll need to sign our team contract and create your own personal comp
 Congrats, you are now your own manager! Be nice.
 
 We'll proudly display you on our site.
+
