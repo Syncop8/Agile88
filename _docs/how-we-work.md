@@ -4,7 +4,7 @@ prev_section: what-is-syncopate.html
 next_section: why-this-works.html
 ---
 
-How Syncopate works - For Clients
+How Agile88 works - For Clients
 ===================
 
 1. Create a project brief
@@ -34,7 +34,7 @@ Once you’re ready to hire, key terms (rates, start date, deliverables, approac
 5. Work directly with your consultant
 -------------------------------------
 
-We encourage you to be clear on deliverables and communicate with the consultant regularly through the project to ensure your expectations are met. The Expert360 team is here to help should you have any questions or concerns.
+We encourage you to be clear on deliverables and communicate with the consultant regularly through the project to ensure your expectations are met. The Agile88 team is here to help should you have any questions or concerns.
 
 
 6. Work directly with your consultant
