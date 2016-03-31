@@ -17,13 +17,10 @@ How does it work?
 
 Our secure, easy to use platform takes care of everything. Simply:
 
-Post a project - Describe what you need, your objectives, and the profile of your ideal candidate.
-
-Interview - Experienced consultants pitch to you. You can review their suitability, and interview your top picks to find the best fit.
-
-Pick the best fit - No need to worry about contracts, invoicing, or payments - everything is handled through the platform.
-
-We aim to provide awesome people. Hire awesome or don't hire at all is our motto.
+* Post a project - Describe what you need, your objectives, and the profile of your ideal candidate.
+* Interview - Experienced consultants pitch to you. You can review their suitability, and interview your top picks to find the best fit.
+* Pick the best fit - No need to worry about contracts, invoicing, or payments - everything is handled through the platform.
+* We aim to provide awesome people. Hire awesome or don't hire at all is our motto.
 
 
 What sort of projects get posted on Agile88?
@@ -56,6 +53,7 @@ Other things that we value (but don't always require):
 -   The candidate complements our network somehow, for example with new skills or perspectives that we lack. He/she will make us feel like newbies in some area!
 -   The candidate has lots of energy and ideas, and won't be shy to challenge the status quo.
 -   The candidate is well known and has a strong reputation in the industry.
+-   
 
 > Tips to candidates: Inspire us! Inspire your potential clients! Show us your skills, technical and social! Present something new and exciting on a blog post, video or conference. We all need to be convinced you are good at what you do. Why? Because we want the clients to rave over how awesome you are.
 
