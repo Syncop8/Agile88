@@ -7,22 +7,19 @@ next_section: visions.html
 Our business
 ============
 
-Formally, Syncopate doesn't really have a business area. We are consultants and people can do whatever they want. Nothing about our model is specific to any domain or industry.
+Agile88 is designed primarily for the following business problems:
 
-In practice though, because of our history and the people who happen to work at Syncopate, we're primarily interested in the following business areas:
-
-1.  **New product development, especially in Financial Services**. Either shorter or longer engagements.
+1.  **New product development. Either shorter or longer engagements.
 2.  **Agile/Lean/Design Thinking coaching and training**. Mostly shorter engagements or part-time.
 3.  **Large project or business set up and delivery (using agile etc)**. Mostly longer engagements and close to full-time.
 
-That is, most Syncopaters happen to spend most of their time in one of these areas, thought they typically overlap.
+That is, most Agile88ers happen to spend most of their time in one of these areas, thought they typically overlap.
 
-Also, there are some [industries that we avoid](industries-that-we-avoid.html).
 
-Different "species" of Syncopateers
+Different "species" of Agile88ers
 -----------------------------------
 
-We sometimes use a funny animal metaphor to talk about different types of engagements. Most Syncopaters fall into one of these categories (although it can change over time). At our bi-yearly [unconference](unconference.html) all animals get together on a rock and make noise together!
+We sometimes use a funny animal metaphor to talk about different types of engagements. Most Agile88er fall into one of these categories (although it can change over time). 
 
 Seal consultants
 ----------------
@@ -62,8 +59,8 @@ Anglerfish consultants
 
 ![Anglerfish consultant](/assets/anglerfish-500.jpg "Anglerfish consultant"):https://www.flickr.com/photos/23629083@N03/15377775448/
 
-Some of us used to be Anglerfish consultants before joining Syncopate.
+Some of us used to be Anglerfish consultants before joining Agile88.
 
 Anglerfish are way down in the dark, lost, wandering aimlessly with nothing but a small artificial light to guide them. Sometimes they are lucky and manage to attract a small fish. As opposed to the Albatross, the Anglerfish can’t see the horizon and doesn’t choose where to go – it just floats around and eats whatever scraps it happens to bump into. The Anglerfish never goes up to the surface to see the big picture or learn something new – in fact, he doesn’t even know the direction to the surface.
 
-Anglerfish are usually ugly and scary. Fortunately we don't have any at Syncopate :o)
+Anglerfish are usually ugly and scary. Fortunately we don't have any at Agile88 :o)
