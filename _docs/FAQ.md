@@ -29,15 +29,18 @@ We aim to provide awesome people. Hire awesome or don't hire at all is our motto
 What sort of projects get posted on Agile88?
 ----------------
 
-Our consultants cater to primarily agile projects of all sizes. They typically specialize in UX, software development, dev ops, agile coaching, project and program delivery. Projects typically fall into one of the following categories:
 
-Project Set-up or turnaround
-UX designs
-Software development
-Agile assessment / coaching
-Test  / dev ops strategy
+Our consultants cater primarily to agile projects of all sizes. They  specialize in UX, software development, dev ops, agile coaching, project and program delivery. Projects typically fall into one of the following categories:
 
-What sort of people are on Agile88?
+* UX design work
+* Software development
+* Agile coaching
+* Dev ops work
+* Agile project delivery at scale
+* Project Set-up or turnaround
+
+
+What sort of people wukk you find on Agile88?
 ----------------
 
 Our minimum bar is:
