@@ -1,5 +1,5 @@
 ---
-title: How Syncopate works
+title: How We Work - For Clients
 prev_section: what-is-syncopate.html
 next_section: why-this-works.html
 ---
