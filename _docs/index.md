@@ -3,7 +3,7 @@ title: Agile88 DNA
 next_section: how-it-works-clients.html
 ---
 
-What is Agile88
+What is Agile88?
 ==================
 
 Our Mission
@@ -15,9 +15,9 @@ Our Story
 -------------
 
 
-During our time at professional services firms and working for corporate, we saw the power of great agile talent in delivering real, innovative outcomes and results.
+We are both career project people. During our time at professional services firms and working for corporates as both consultants and internall staff members, we saw the power of great agile talent when it came to delivering real, innovative outcomes and results.
 
-But getting access to the best was - and still is - hard. The market for matching people and organisations was highly inefficient. We believed that an efficient marketplace for great talent would help both organisations and those individuals with powerful skill-sets.
+But getting access to the best was - and still is - difficult. The market for matching people and organisations was, and largely is, highly inefficient. We believed that an online marketplace for great talent would help both organisations and those individuals with powerful skill-sets.
 
 We also noticed that more and more skilled people wanted to have more flexibility and choice in the way the work and with whom they work.
 
